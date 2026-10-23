@@ -1,4 +1,10 @@
-# Living-in-Seoul-for-everyone
+# Living-in-capital-area-on-the-Earth
+Nowdays, all the countries they unified their system if there is their territory.
+For example, if you live in Busan, Like bank, convinence store, language everything unified in Korean style.
+But if you just go Tsushima, Everything have changed what I referred just there was that countries territory.
+but I believe before like connected with electric and network, they could more similar than Seoul or Tokyo !
+in that theory, we don't need to visit faked thing, Just living in Capital area city and you judge that country is good or not for you !
+
 ## Selling Used item easily
 Actually many country they biased some flatform, 
 So if someone move other country city, it's awkard to sell and buy their item
