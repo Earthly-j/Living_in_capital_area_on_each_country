@@ -1,0 +1,39 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Listing {
+  id            String         @id @default(cuid())
+  title         String
+  price         Int
+  condition     String         @default("LIKE_NEW")
+  category      String         @default("기타")
+  area          String
+  shipping      String         @default("BOTH")
+  description   String         @default("")
+  images        String         @default("[]")
+  status        String         @default("ACTIVE")
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  platformPosts PlatformPost[]
+}
+
+model PlatformPost {
+  id        String    @id @default(cuid())
+  listingId String
+  platform  String
+  title     String
+  content   String
+  status    String    @default("READY")
+  postedAt  DateTime?
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  listing   Listing   @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@unique([listingId, platform])
+}
