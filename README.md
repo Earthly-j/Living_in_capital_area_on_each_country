@@ -7,7 +7,7 @@ in that theory, we don't need to visit faked thing, Just living in Capital area 
 And someday each cites and places could take back their color which was how they look like OR other power country take over the other country and make same even that country ?
 
 ## Selling Used item easily
-Actually many country they biased some flatform, \
+Actually many country they biased by specific flatform, \
 So if someone move other country city, it's awkard to sell and buy their item\
 And  Korea  where I live, they divided in too many flatforms( Dangeun, Joogonara, Bunjang ..)\
 so even someone load list their item, at that moment the people who need that item, not easy to find at once\
