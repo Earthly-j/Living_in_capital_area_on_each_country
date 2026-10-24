@@ -2,7 +2,7 @@
 Nowdays, all the countries they unified their system if that territory include in their country part. \
 For example, if you live in Busan, Like the bank, convinence store, language everything unified in Korean style.\
 But if you just go Tsushima, Everything have changed what I referred, because just there was that countries territory.\
-but I believe before like connected with electric and network, they could more similar than Seoul or Tokyo !\
+but I believe before disconnected with electric and network, they could more similar than Seoul or Tokyo !\
 in that theory, we don't need to visit faked thing, Just living in Capital area city and you judge that country is good or not for you !\
 And someday each cites and places could take back their color which was how they look like OR other power country take over the other country and make same even that country ?
 
