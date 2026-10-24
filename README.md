@@ -1,5 +1,5 @@
 # Living-in-capital-area-on-the-Earth
-Nowdays, all the countries they unified their system if there was their territory. \
+Nowdays, all the countries they unified their system if that territory include in their country part. \
 For example, if you live in Busan, Like the bank, convinence store, language everything unified in Korean style.\
 But if you just go Tsushima, Everything have changed what I referred, because just there was that countries territory.\
 but I believe before like connected with electric and network, they could more similar than Seoul or Tokyo !\
