@@ -4,7 +4,7 @@ For example, if you live in Busan, Like the bank, convinence store, language eve
 But if you just go Tsushima, Everything have changed what I referred, because just there was that countries territory.\
 but I believe before disconnected with electric and network, they could more similar than Seoul or Tokyo !\
 in that theory, we don't need to visit faked thing, Just living in Capital area city and you judge that country is good or not for you !\
-And someday each cites and places could take back their color which was how they look like OR other power country take over the other country and make same even that country ?
+
 
 ## Selling Used item easily
 Actually many country they biased by specific flatform, \
